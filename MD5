@@ -1,0 +1,16 @@
+6c62a36ad96e6c820fd6470e24b7da5f *DESCRIPTION
+c829ee0e1b3a1610eacc04880100af58 *NAMESPACE
+3220513adb8089fb303a14b9a7d7ed03 *R/GrandTour_English.R
+da3f9e2d1a80e8e4b0398247ffc43821 *R/LocLab_English.R
+ec14480da120536c0a865c92248fe9f6 *R/PP_Index_English.R
+579dc34fd9ab6478c4fed1255e8f0837 *R/PP_Optimizer_English.R
+7148a66577bbe603ac2e30880ec18701 *R/Plot.PP_English.R
+94178f964d78fe59d9ced579487b13c2 *inst/CITATION
+8c0c6300ff59b2abca3536e7e4918ea9 *man/GrandTour_English.Rd
+d0ee5bb07d260bd242f95342eafb1993 *man/LocLab_English.Rd
+eb6d4b37045691b302d339c2821de3af *man/PP_Index_English.Rd
+2e45bd71e4ebae8d7634d085f6b77da1 *man/PP_Optimizer_English.Rd
+db653d9bd4db8f944d681624cd1b8c0b *man/Plot.PP_English.Rd
+605e6fa53f9f352b428fb648735f643d *man/Pursuit-package.Rd
+95071d6d60242329041d60ed61467b52 *src/PP_IndexC.c
+2ba86e33832a349f530dc354398f75a3 *src/PursuitRegister.c

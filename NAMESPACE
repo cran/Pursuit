@@ -1,0 +1,7 @@
+exportPattern("^[^\\.]")
+importFrom("graphics", "abline", "arrows", "legend", "lines", "par",
+           "plot", "points", "rect", "strheight", "strwidth", "text")
+importFrom("stats", "integrate", "prcomp", "predict", "rnorm", "runif", "cov")
+importFrom("MASS", "ginv", "lda", "qda")
+importFrom("grDevices","dev.off","png", "dev.new", "xy.coords")
+useDynLib(Pursuit, .registration = TRUE)
