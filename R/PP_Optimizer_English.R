@@ -116,7 +116,7 @@ PP_Optimizer = function(data, class = NA, findex = "HOLES", dimproj = 2, sphere 
   if (!is.numeric(half) || half < 1 || (floor(half)-half) != 0)
      stop("'half' input is incorrect, it should be a numeric integer greater than zero. Verify!")
 
-  # set.seed(7) # semente para o processo de aleatoriedade
+  set.seed(7) # semente para o processo de aleatoriedade
   
   #### START - Useful Functions ####
   spheredata <- function(data) {
