@@ -117,6 +117,3 @@ Plot.PP(res, titles = tit, posleg = 1, boxleg = FALSE, color = TRUE,
         width = 3236, height = 2000, res = 300, casc = FALSE)
 
 }
-
-\keyword{Projection pursuit}
-\keyword{PP}

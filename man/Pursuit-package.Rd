@@ -4,16 +4,16 @@
 
 \docType{package}
 
-\title{Projection Pursuit.}
+\title{Projection Pursuit}
 
-\description{Package for projection pursuit (PP) with 17 methods and grand tour with 3 methods. Being that projection pursuit searches for low-dimensional linear projections in high-dimensional data structures, while grand tour is a technique used to explore multivariate statistical data through animation.}
+\description{Projection pursuit (PP) with 17 methods and grand tour with 3 methods. Being that projection pursuit searches for low-dimensional linear projections in high-dimensional data structures, while grand tour is a technique used to explore multivariate statistical data through animation.}
  
 \details{
 \tabular{ll}{
 Package: \tab Pursuit\cr
 Type: \tab Package\cr
-Version: \tab 1.0.3\cr
-Date: \tab 2022-10-17\cr
+Version: \tab 1.0.4\cr
+Date: \tab 2023-08-19\cr
 License: \tab GPL(>= 2)\cr
 LazyLoad: \tab yes\cr
 }

@@ -29,4 +29,3 @@ LocLab(x, y = NULL, labels = seq(along = x), cex = 1,
 \value{
 See the text of the function.
 }
-

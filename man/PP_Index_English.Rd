@@ -138,6 +138,3 @@ print("Projection vectors:"); ind$vector.proj
 print("Projection index:"); ind$index
 print("Optimized Projection index:"); res$index[length(res$index)]
 }
-
-\keyword{Projection pursuit}
-\keyword{PP}
