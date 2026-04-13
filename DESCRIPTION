@@ -1,8 +1,8 @@
 Package: Pursuit
 Type: Package
 Title: Projection Pursuit
-Version: 1.0.9
-Date: 2025-04-19
+Version: 1.1.0
+Date: 2026-04-13
 Imports: graphics, grDevices, MASS, stats
 Authors@R: c(
            person(given = c("Paulo Cesar"), family = "Ossani", 
@@ -17,9 +17,11 @@ Description: Projection pursuit (PP) with 17 methods and grand tour with 3 metho
 License: GPL-3
 Encoding: UTF-8
 NeedsCompilation: yes
-Author: Paulo Cesar Ossani [aut, cre] (<https://orcid.org/0000-0002-6617-8085>),
-  Marcelo Angelo Cirillo [aut] (<https://orcid.org/0000-0002-2647-439X>)
+Author: Paulo Cesar Ossani [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-6617-8085>),
+  Marcelo Angelo Cirillo [aut] (ORCID:
+    <https://orcid.org/0000-0002-2647-439X>)
 Maintainer: Paulo Cesar Ossani <ossanipc@hotmail.com>
 Repository: CRAN
-Packaged: 2025-04-18 18:39:27 UTC; Ossan
-Date/Publication: 2025-04-18 19:10:11 UTC
+Packaged: 2026-04-13 18:47:28 UTC; sec-l
+Date/Publication: 2026-04-13 19:40:02 UTC
